@@ -1,5 +1,5 @@
-# QuadB-Tech
-Advanced React To-Do Application with API Integration
+# Advanced React To-Do Application with API Integration
+
 Welcome to the Advanced React To-Do Application, a feature-rich task management app designed as part of a frontend development training program. This project combines foundational web development technologies (HTML, CSS, JavaScript) with advanced frontend concepts like React Hooks, Redux for state management, API integration, responsive UI, and mock user authentication.
 
 This README provides a detailed overview of the application's features, architecture, technologies used, and how to run it locally or access the deployed version.
